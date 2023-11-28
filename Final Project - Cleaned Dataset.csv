@@ -1,0 +1,105 @@
+"State","Location","All.Ages..2012","All.Ages..2014","Ages.0.20..2012","Ages.0.20..2014","Ages.21.34..2012","Ages.21.34..2014","Ages.35...2012","Ages.35...2014","Male..2012","Male..2014","Female..2012","Female..2014","DUI","Fatalities","Population","Sunday.Sales","Region","Types.Of.Alcohol.Purchasable.In.Grocery.Stores","Marijuana.Legalized","Actual.Number.Fatalities.2012","Actual.Number.Fatalities.2014"
+"Alabama","Alabama
+(32.840572, -86.631857)",5.5,5.5,2.7,2.1,10.3,10,5,5.5,8.4,8.6,2.9,2.6,7863,247,4858979,"Prohibited","South","Beer and Wine Only","No",267,267
+"Alaska","Alaska
+(64.845078, -147.72206)",NA,2.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3163,24,738432,"Permitted","West","None","Yes",NA,21
+"Arizona","Arizona
+(34.865974, -111.763807)",3.6,3,1.6,NA,6.9,5.5,3.3,3.1,5.4,4.5,1.7,1.5,22367,272,6828065,"Permitted","West","All","Yes",246,205
+"Arkansas","Arkansas
+(34.74865, -92.27449)",5.1,4.6,NA,NA,10.5,6.3,4.3,5.4,8.1,7.2,2.2,2.2,6919,149,2978204,"Local","South","Beer and Wine Only","No",152,137
+"California","California
+(37.638642, -120.999996)",2,2.2,0.9,1,4.5,4.6,1.8,2,3.2,3.4,1,1.1,141458,914,39144818,"Permitted","West","All","Yes",783,861
+"Colorado","Colorado
+(38.843843, -106.133609)",2.5,3,NA,1.7,5.6,5.6,2,2.6,3.9,4.6,1.1,1.3,25562,151,5456574,"Permitted","West","Beer and Wine Only","Yes",136,164
+"Connecticut","Connecticut
+(41.562661, -72.64984)",2.4,2.7,NA,NA,5.9,6.1,2.1,2.5,3.7,4.6,1.1,NA,8148,103,3590886,"Local","Northeast","Beer Only","Yes",86,97
+"Delaware","Delaware
+(39.008834, -75.577736)",3.8,5.2,NA,NA,NA,11.7,4,4.6,6.6,7.4,NA,NA,386,42,945934,"Permitted","South","None","Yes",36,49
+"District of Columbia","District of Columbia
+(38.890373, -77.031957)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"South","All","Yes",NA,NA
+"Florida","Florida
+(28.932043, -81.928958)",3.7,3.5,1.2,1.2,8,7.4,3.3,3.1,5.7,5.4,1.7,1.7,31783,797,20271272,"Local","South","Beer and Wine Only","No",750,709
+"Georgia","Georgia
+(32.839683, -83.627579)",3,2.7,1,0.8,5.8,5.2,3.1,2.9,4.9,4.7,1.2,0.9,19217,365,10214860,"Local","South","Beer and Wine Only","No",306,276
+"Hawaii","Hawaii
+(21.304852, -157.857748)",3.8,2.2,NA,NA,NA,NA,3.2,NA,5.7,3.6,NA,NA,5250,33,1431603,"Permitted","West","All","No",54,31
+"Idaho","Idaho
+(43.682632, -114.363727)",3.6,3.3,NA,NA,8.7,NA,2.7,3,5.8,4.8,NA,NA,5844,70,1654930,"Local","West","Beer and Wine Only","No",60,55
+"Illinois","Illinois
+(40.485012, -88.997709)",2.5,2.4,0.7,0.7,6,5.5,2.1,2.2,4,3.7,1,1.3,3659,307,12859995,"Local","Midwest","All","Yes",321,309
+"Indiana","Indiana
+(39.766913, -86.149956)",3.6,3.2,1.2,NA,7.2,6.3,3.5,3.2,6,5.1,1.3,1.3,14428,178,6619680,"Prohibited","Midwest","All","No",238,212
+"Iowa","Iowa
+(42.469401, -93.816487)",3.2,3,NA,NA,5.9,4.6,2.9,3.4,5.1,4.8,NA,NA,9028,78,3123899,"Permitted","Midwest","All","No",100,94
+"Kansas","Kansas
+(38.347743, -98.200778)",3.4,3.6,2.3,NA,6,7.4,3,3.3,6,5.8,NA,1.4,7186,84,2911641,"Local","Midwest","Beer Only","No",99,105
+"Kentucky","Kentucky
+(37.645973, -84.774968)",4,3.9,1.8,2,7.2,7.8,3.7,3.4,6.5,6.5,1.5,1.3,17825,192,4425092,"Local","South","Beer Only","No",177,173
+"Louisiana","Louisiana
+(31.312663, -92.445678)",5.2,5.4,2.8,1.8,8.6,9.4,5.1,5.7,8.3,9.1,2.4,1.9,5598,253,4670724,"Local","South","All","No",243,252
+"Maine","Maine
+(45.254229, -68.985026)",3.8,3.3,NA,NA,NA,NA,2.8,3.1,6.6,5.1,NA,NA,5756,52,1329328,"Permitted","Northeast","All","Yes",51,44
+"Maryland","Maryland
+(39.290583, -76.60926)",2.7,2.2,1.6,NA,5.8,5.4,2.2,1.8,4.1,3.5,1.4,0.9,17100,160,6006401,"Local","South","None","Yes",162,132
+"Massachusetts","Massachusetts
+(42.276874, -72.082687)",1.8,1.9,NA,NA,3.3,4,1.7,1.8,2.7,3.1,0.9,0.9,8258,96,6794422,"Local","Northeast","All","Yes",122,129
+"Michigan","Michigan
+(44.661322, -84.714386)",2.7,2.2,1.1,1,6.8,5.1,2,1.8,4.3,3.3,1.2,1.1,26845,268,9922576,"Local","Midwest","All","Yes",268,218
+"Minnesota","Minnesota
+(46.355649, -94.7942)",2.1,1.9,NA,NA,3.7,3.5,2.2,2.1,3.2,3,1.2,0.9,20830,115,5489594,"Permitted","Midwest","Beer Only","Yes",115,104
+"Mississippi","Mississippi
+(32.745513, -89.538027)",6.1,6,2.6,2.8,12,10.8,5.7,5.8,9.8,9.4,2.7,2.8,6889,175,2992333,"Prohibited","South","Beer Only","No",183,180
+"Missouri","Missouri
+(38.635791, -92.566299)",4.8,3.4,1.9,NA,9.5,6.9,4.4,3.2,7.8,5.6,1.8,1.3,19449,224,6083672,"Permitted","Midwest","All","Yes",292,207
+"Montana","Montana
+(47.066528, -109.424416)",9.4,7.3,NA,NA,21.4,15.4,7.2,6.9,14.9,10.2,4,4.3,3674,76,1032949,"Prohibited","West","Beer and Wine Only","Yes",97,75
+"Nebraska","Nebraska
+(41.641044, -99.365719)",4,3.3,NA,NA,6.5,7,3.5,3,6.4,5,NA,NA,5348,65,1896190,"Local","Midwest","All","No",76,63
+"Nevada","Nevada
+(39.493242, -117.071839)",2.8,3.3,NA,NA,4.6,6.4,3.2,2.7,4.2,4.9,1.4,1.7,7612,96,2890845,"Local","West","All","Yes",81,95
+"New Hampshire","New Hampshire
+(43.655953, -71.500357)",2.4,2.4,NA,NA,NA,NA,2.9,NA,4.1,3.2,NA,NA,4746,33,1330608,"Restricted","Northeast","Beer and Wine Only","No",32,32
+"New Jersey","New Jersey
+(40.130571, -74.273688)",1.8,1.8,NA,NA,4.6,3.6,1.4,1.7,2.9,2.9,0.9,0.8,22201,111,8958013,"Local","Northeast","Varies","Yes",161,161
+"New Mexico","New Mexico
+(34.520881, -106.240578)",4.8,5.7,NA,NA,9.1,11.2,4.5,5.1,6.9,8.6,2.9,2.8,8542,98,2085109,"Local","West","All","Yes",100,119
+"New York","New York
+(42.827004, -75.543966)",1.7,1.6,0.6,0.7,3.3,3,1.7,1.5,2.7,2.4,0.8,0.8,28988,311,19795791,"Permitted","Northeast","Beer Only","Yes",337,317
+"North Carolina","North Carolina
+(35.46622, -79.15925)",4.2,3.8,1.7,1.4,8,7.7,4,3.6,6.8,6.3,1.7,1.5,35967,411,10042802,"Prohibited","South","Beer and Wine Only","No",422,382
+"North Dakota","North Dakota
+(47.475319, -100.118428)",11.3,7.2,NA,NA,15.3,15.2,12,6.1,17.4,10.7,NA,NA,6351,50,756927,"Local","Midwest","All","No",86,54
+"Ohio","Ohio
+(40.060212, -82.404257)",3.5,2.7,1.2,0.8,6.8,5.6,3.3,2.6,5.5,4.2,1.6,1.3,34254,313,11613423,"Local","Midwest","Beer and Wine Only","Yes",406,314
+"Oklahoma","Oklahoma
+(35.472031, -97.521068)",5.6,4,NA,NA,10.5,7.4,5.8,3.9,9.3,6,1.9,2.1,11101,170,3911338,"Prohibited","South","Beer and Wine Only","No",219,156
+"Oregon","Oregon
+(44.56745, -120.155029)",2.2,2.5,NA,NA,5.2,4.2,1.8,2.6,3.1,3.7,1.3,1.4,9019,155,4028977,"Permitted","West","Beer and Wine Only","Yes",89,101
+"Pennsylvania","Pennsylvania
+(40.793734, -77.860697)",3.3,2.7,1.4,0.7,7.2,5.5,2.8,2.7,5.4,4.4,1.3,1.1,44615,363,12802503,"Restricted","Northeast","Beer and Wine Only","No",422,346
+"Rhode Island","Rhode Island
+(41.708281, -71.522466)",2.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2591,19,1056298,"Permitted","Northeast","None","Yes",24,NA
+"South Carolina","South Carolina
+(33.998822, -81.045366)",7.6,5.8,2.8,2,14.2,12.4,7.6,5.3,12.3,9,3.2,2.9,16272,301,4896146,"Prohibited","South","Beer and Wine Only","No",372,284
+"South Dakota","South Dakota
+(44.35313, -100.373529)",5.7,5.6,NA,NA,NA,NA,NA,6.2,7.4,8.7,NA,NA,7305,44,858469,"Local","Midwest","All","No",49,48
+"Tennessee","Tennessee
+(35.680941, -85.774487)",4.6,4.1,1.6,NA,8,8.2,4.9,4.1,7.5,6.8,1.8,1.5,23150,251,6600299,"Prohibited","South","Beer and Wine Only","No",304,271
+"Texas","Texas
+(31.82724, -99.426768)",4.9,5.4,2.1,2.3,10,10,4.7,5.3,7.6,8.1,2.4,2.7,64971,1323,27469114,"Prohibited","South","Beer and Wine Only","No",1346,1483
+"United States","United States
+(39.759996, -98.499999)",3.3,3.1,1.3,1.2,6.7,6.2,3.1,3,5.2,4.9,1.5,1.4,NA,NA,NA,NA,"West","All","No",NA,NA
+"Utah","Utah
+(39.360701, -111.587128)",1.2,2,NA,NA,NA,NA,1.9,2.3,1.7,3,NA,NA,8813,43,2995919,"Prohibited","West","Beer Only","No",36,60
+"Vermont","Vermont
+(43.625384, -72.517637)",3.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2144,16,626042,"Permitted","Northeast","Beer and Wine Only","Yes",21,NA
+"Virginia","Virginia
+(37.542681, -78.457889)",2.5,2.5,1.2,1.2,4.5,5.1,2.6,2.3,4.1,3.9,0.9,1.2,20477,208,8382993,"Restricted","South","Beer and Wine Only","Yes",210,210
+"Washington","Washington
+(47.522288, -120.470028)",2.1,1.9,NA,NA,4,3.4,2,1.9,3.6,2.9,0.7,0.9,24627,147,7170351,"Permitted","West","All","Yes",151,136
+"West Virginia","West, Virginia
+(38.665511, -80.712638)",5.6,4.7,NA,NA,12.9,10,4.4,4,9.3,7.1,NA,NA,4543,71,1844128,"Prohibited","South","All","No",103,87
+"Wisconsin","Wisconsin
+(44.393191, -89.816366)",3.6,2.9,1.6,NA,6.5,7.5,3.5,2.3,5.6,4.8,1.6,1.2,24588,189,5771337,"Permitted","Midwest","All","No",208,167
+"Wyoming","Wyoming
+(43.235541, -108.109827)",7.1,8.2,NA,NA,17.3,NA,NA,8.1,11.3,13.1,NA,NA,3157,56,586107,"Permitted","West","All","No",42,48
